@@ -2,7 +2,7 @@
 DLL Hijacking/Proxying, replaces chrome_elf.dll, with yours, so whenever chrome runs, it downloads and runs your payload
 
 
-![Google_Chrome_icon_(February_2022) svg](https://github.com/user-attachments/assets/af5475b4-dff1-4eed-b43d-5dd10e09de2c)
+![Google_Chrome_icon_(February_2022) svg](https://github.com/user-attachments/assets/2d758cd0-eafa-486f-ab4b-3450661b80c5)
 
 https://github.com/user-attachments/assets/27940213-af01-4163-85db-361f8f0beffa
 
