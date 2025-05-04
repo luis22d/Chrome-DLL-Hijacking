@@ -1,0 +1,7 @@
+﻿  chrome.cpp
+     Creating library C:\Users\NotCoder\source\repos\chrome\x64\Release\chrome.lib and object C:\Users\NotCoder\source\repos\chrome\x64\Release\chrome.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 45 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  chrome.vcxproj -> C:\Users\NotCoder\source\repos\chrome\x64\Release\chrome.dll
