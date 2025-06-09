@@ -6,7 +6,7 @@ DLL Hijacking/Proxying, replaces chrome_elf.dll, with yours, so whenever chrome 
 
 https://github.com/user-attachments/assets/27940213-af01-4163-85db-361f8f0beffa
 
-https://t.me/ZeroTraceOfficial
+https://t.me/ZeroTraceDevOfficial
 
 # Chrome ELF DLL Hijacking Exploit
 
